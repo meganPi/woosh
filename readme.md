@@ -181,6 +181,7 @@ I was unable to add the google and facebook passport Auth0 to my app, as it kept
 
 #### Deployment
 
-- The app has been pushed to github
+- The app has been pushed to github:
+- https://github.com/meganPi/woosh
 
 - The app has been deployed to heroku
