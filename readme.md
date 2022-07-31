@@ -4,7 +4,7 @@ Below is the documentation for the software requirements for the Full-Stack Onli
 
 ### User Requirements
 
-The user will be able sign up and loging to and online store to view various products that are for sale on Woosh. They will then be able to add these items in varying quantities to their cart. The online store will be linked to PayPal to enable the user to make online purchases.
+The user will be able sign up and login to an online store to view various products that are for sale on Woosh. They will then be able to add these items in varying quantities to their cart. The online store will be linked to PayPal to enable the user to make online purchases.
 
 The administrator of the website will be able to add and remove products from the store, they will be able to change the price of an item. The administrator will be able to see which customers' payments have been made and which are still pending, and they will be able to see if the item has been delivered or not.
 
